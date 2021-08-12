@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subtitle>
+    <str>红红火火恍恍惚惚哈哈哈哈笑死我了</str>
+    <font>微软雅黑</font>
+    <fontSize>31</fontSize>
+    <textColor>#ffffff</textColor>
+    <bBold>1</bBold>
+    <bOutline>0</bOutline>
+    <outlineWidth>8</outlineWidth>
+    <outlineColor>#ff7d4a</outlineColor>
+    <bShadow>1</bShadow>
+    <shadowOffset>5</shadowOffset>
+    <shadowColor>#435655</shadowColor>
+    <bBg>0</bBg>
+    <bgColor>#272727</bgColor>
+    <letterSpace>119</letterSpace>
+    <positionX>549</positionX>
+    <positionY>982</positionY>
+    <paperWidth>1920</paperWidth>
+    <paperHeight>1080</paperHeight>
+    <align>1</align>
+</subtitle>
